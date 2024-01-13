@@ -14,7 +14,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/F4llCode/F4llHooks.git
+   git clone https://github.com/your-username/F4llHooks.git
    ```
 
 2. Navigate to the project directory:
