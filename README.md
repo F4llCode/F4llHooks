@@ -13,7 +13,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/F4llHooks.git
+    git clone https://github.com/F4llCode/F4llHooks.git
     ```
 
 2. Navigate to the project directory:
@@ -38,4 +38,4 @@ Just run the .bat file.
 The script uses a webhooks.txt file to store Discord webhook URLs. You can add, remove, or change webhooks using the options provided.
 
 ### Troubleshooting
-### If you encounter issues running the script, please make sure you have Python installed and that the required packages are installed using the provided requirements.txt file.
+If you encounter issues running the script, please make sure you have Python installed and that the required packages are installed using the provided requirements.txt file.
